@@ -1,5 +1,7 @@
 # Vermintide 2 Source Code
 
+See [`docs/README.md`](docs/README.md) for a comprehensive guide to the repository architecture, runtime layers, and engine-behavior modding.
+
 -------------------------------------------------------------
 
 Date      |  Patch  | Notes
